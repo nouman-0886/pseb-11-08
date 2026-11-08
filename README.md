@@ -1,6 +1,6 @@
 # Welcome to PSEB Workspace! 👋
 
-Thank you for visiting. This is a simple, random welcoming repository for the **Pakistan Software Export Board (PSEB)** community initiatives.
+Thank you for visiting. This is a simple, **Pakistan Software Export Board (PSEB)** community initiatives.
 
 ## 🚀 About This Repo
 This is a placeholder space created to welcome developers, tech enthusiasts, and partners working towards transforming Pakistan into a global tech hub.
